@@ -1,9 +1,5 @@
 # ibrahim-oez.github.io
 
-# Meine Webseite
-
-Willkommen auf meiner Webseite! Hier ist der Link zur live Version: [Hier klicken](https://ibrahimozdogan.github.io/meine-webseite)
-
 ## Inhalte
 
 - [index.html](index.html) - Die Hauptseite meiner Webseite.
